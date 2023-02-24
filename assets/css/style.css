@@ -2472,6 +2472,17 @@ experience
 	color: var(--color-primary) !important;
 }
 
+.tb_theme_container div[style]:nth-child(3) a{
+	position: absolute;
+    z-index: -1;
+}
+
+.tb_theme_container div[style]:nth-child(3){
+	border: 23px solid white;
+    background: white;
+}
+
+
 @media (max-width: 600px) {
 	.medium-blog {
 		margin-top: 7rem;
