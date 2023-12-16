@@ -1249,7 +1249,7 @@ header {
 
 
 	/**
-	 * #SOFTWARE, BLOG 
+	 * #SOFTWARE, BLOG
 	 */
 
 	.project-img,
@@ -2404,7 +2404,7 @@ footer {
 
 
 
-/* 
+/*
 @media (min-width: 1400px) {
 
 
@@ -2478,9 +2478,10 @@ experience
 }
 
 .tb_theme_container div[style]:nth-child(3){
-	border: 23px solid white;
-    background: white;
+	border: 23px solid var(--bg-primary);
+    background: var(--bg-primary);
 }
+
 
 @media (max-width: 600px) {
 	.medium-blog {
@@ -2791,7 +2792,7 @@ experience
 @media (min-width: 450px) {
 
 	/**
-	 * #PORTFOLIO, BLOG 
+	 * #PORTFOLIO, BLOG
 	 */
 
 
@@ -4407,7 +4408,7 @@ experience
 	font-weight: 600;
 }
 
-/* 
+/*
 .blb2 {
 	transform: rotate(90deg)
 } */
