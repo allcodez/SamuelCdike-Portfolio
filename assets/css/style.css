@@ -1192,6 +1192,7 @@ header {
 .blog-banner-box img {
 	width: 100%;
 	height: 100%;
+	/* border-radius: -191px; */
 	/* object-fit: cover; */
 	transition: .5s cubic-bezier(.07, .73, 1, .95);
 }
@@ -2150,8 +2151,18 @@ footer {
 	/* background: black; */
 }
 
+.experience .logo1-update {
+	background: url(../images/Ellipse\ 2.png);
+	background-size: cover;
+}
+
 .experience .logo1 {
 	background: url(../images/97dc7f438daebb11ba65408d4dde31e5.png);
+	background-size: cover;
+}
+
+.experience .logo2-update {
+	background: url(../images/Ellipse\ 3.png);
 	background-size: cover;
 }
 
@@ -2239,6 +2250,7 @@ footer {
 }
 
 .experience-card .card-title {
+	font-family: 'Sora', sans-serif;
 	font-size: 1.3rem;
 	margin-bottom: 1rem;
 }
