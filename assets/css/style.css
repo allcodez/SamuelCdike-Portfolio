@@ -2380,6 +2380,16 @@ footer {
 		line-height: 1.5;
 	}
 
+	.experience-sm .logo1-update-sm {
+		background: url(../images/Ellipse\ 2.png);
+		background-size: cover;
+	}
+
+	.experience-sm .logo2-update-sm {
+		background: url(../images/Ellipse\ 3.png);
+		background-size: cover;
+	}
+
 	.experience-sm .logo1-sm {
 		background: url(../images/97dc7f438daebb11ba65408d4dde31e5.png);
 		background-size: cover;
